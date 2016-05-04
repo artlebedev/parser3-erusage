@@ -1,0 +1,22 @@
+{
+  "name": "artlebedev/parser3-erusage",
+  "description": "Wrapper for built-in ^memory:compact[]",
+  "type": "library",
+  "keywords": ["parser3", "memory", "memory usage", "compact", "debug"],
+  "homepage": "http://www.parser.ru/lib/erusage/",
+  "authors": [
+    {
+      "name": "Michael Petrushin",
+      "homepage": "http://misha.design.ru"
+    }
+  ],
+  "require": {
+    "parser": ">=3.4.3"
+  },
+  "classPath":{
+    "/": "dir"
+  },
+  "aliases": {
+    "master": "1.5.x-dev"
+  }
+}
