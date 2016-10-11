@@ -13,8 +13,10 @@
   "require": {
     "parser": ">=3.4.3"
   },
-  "classPath":{
-    "/": "dir"
+  "autoload":{
+    "classpath": [
+      "/"
+    ]
   },
   "aliases": {
     "master": "1.5.x-dev"
